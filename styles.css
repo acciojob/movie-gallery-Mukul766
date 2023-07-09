@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.row{
+	position:relative;
+}
+.col-sm-4{
+	
+	display:inline-block;
+}
